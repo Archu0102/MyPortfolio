@@ -52,8 +52,7 @@ p{
 }
 
 @media screen and(max-width:648) {
-    .h4{
-        font-size: 0.7rem;
-    /* padding-bottom: 0.7; */
+    .footer-container{
+        grid-template-columns: 1fr;
     }
 }
