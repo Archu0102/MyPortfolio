@@ -1,6 +1,6 @@
 import React from 'react'
-import Heroimage from '../component/Heroimage';
 import Navbar from '../component/Navbar';
+import Heroimage from '../component/Heroimage';
 import Footer from '../component/Footer';
 
 const Homepage = () => {
