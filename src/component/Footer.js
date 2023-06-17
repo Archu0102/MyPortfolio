@@ -10,7 +10,7 @@ const Footer = () => {
                 <div className='location'>
                     <FaHome size={25} style={{ color:'#fff', marginRight: "2rem" }} />
                     <div>
-                        <p>Motihari  Bihar</p>
+                        <p>Motihari Bihar</p>
                     </div>
                 </div>
                 <div className='phone'>
@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
                 <div className='right'>
                     <h4>About Me</h4>
-                    <p>Hi, I'm Archana Kumari, I'm MERN Stack Developer. I have completed 6 month internship from Intric pvt. Ltd. Noida UP , here i workes as web Debdeveloper and also as a manual test engineer i interact with real world and live project </p>
+                    <p>Hi, I'm Archana Kumari, I'm front-end Developer. I have completed 6 month internship from Intric pvt. Ltd. Noida UP , here i worked as Front-end Debdeveloper and also as a manual test engineer i was interacted with real world and worked on live project </p>
                     <div className='social'>
                     <FaFacebook size={25} style={{ color:'#fff', marginRight: "2rem" }} />
                     <FaLinkedin size={25} style={{ color:'#fff', marginRight: "2rem" }} />
